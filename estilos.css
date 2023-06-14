@@ -67,7 +67,7 @@ input[type="checkbox"]:focus {
 }
 
 .input-range::-webkit-slider-thumb, footer {
-  background-color: #B29463;
+  background-color: var(--marrom-claro);
 }
 
 [data-bs-theme="dark"] {
